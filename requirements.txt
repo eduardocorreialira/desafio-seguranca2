@@ -1,0 +1,3 @@
+pynput
+
+# pynput is optional for the real keylogger example (commented). The simulation does not need extra packages.
